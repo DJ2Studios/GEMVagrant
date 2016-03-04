@@ -82,6 +82,5 @@ Vagrant.configure(2) do |config|
     sudo bower install jquery
     sudo npm install angular
 
-
   SHELL
 end
